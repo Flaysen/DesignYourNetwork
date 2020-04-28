@@ -15,3 +15,6 @@ FORMS += \
     mainwindow.ui
 
 include(../core/core.pri)
+
+RESOURCES += \
+    resources.qrc
